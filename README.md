@@ -1,0 +1,1 @@
+Simple app to find occurence of number in array. Created just for fun and excercise.
